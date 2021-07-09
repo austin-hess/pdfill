@@ -1,0 +1,33 @@
+{
+    "name": "Austin Hess",
+    "countryOfCitizenship": "Mexico",
+    "residenceAddress": {
+        "streetLine": "Calle Guadiana 4972",
+        "cityStatePostalCode": "San Antonio, 32250 Cd Juarez, Chihuahua",
+        "country": "Mexico"
+    },
+    "mailingAddress": {
+        "streetLine": "Calle Guadiana 4972",
+        "cityStatePostalCode": "San Antonio, 32250 Cd Juarez, Chihuahua",
+        "country": "Mexico"
+    },
+    "usaTin": "213123123",
+    "foreignTin": "123456789123",
+    "referenceNumbers": null,
+    "dateOfBirth": "01-01-1980",
+    "chapter3": {
+        "residentOfCountry": null,
+        "treatyParagraphNumber": null,
+        "withholdingRate": null,
+        "typeOfIncome": null,
+        "additionalConditions1": null,
+        "additionalConditions2": null,
+        "additionalConditions3": null
+    },
+    "signatureData": {
+        "signature": null,
+        "date": null,
+        "printedName": "Austin Hess",
+        "actingInCapacity": null
+    }
+}
